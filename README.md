@@ -19,4 +19,4 @@ Software Developer with 3 years of experience, focus in JavaScript and your ecos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobenthin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Wakatime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@joaobenthin)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaobenthin)](https://github.com/anuraghazra/github-readme-stats)
