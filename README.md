@@ -1,5 +1,5 @@
 <h1>Hello {Guys} 👋</h1>
-<p>I'm João, Lead Developer with 4 years of experience, focus in JavaScript and your ecosystem.</p>
+<p>I'm João, Software Developer with 5 years of experience, focus in JavaScript and your ecosystem.</p>
 
 <p>👨‍💻 Technologies: <strong>HTML5, CSS3, JavaScript, TypeScript, Node.js, ReactJS, React Native, Redux and Styled Components.</strong></p>
 
